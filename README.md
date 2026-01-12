@@ -1,22 +1,22 @@
-# ✈️ Flight Analytics Dashboard (India)
+#  Flight Analytics Dashboard (India)
 
 A real-time flight analytics dashboard built using **Streamlit**, **PostgreSQL**, and **free aviation APIs**.
 
-## 🚀 Features
+##  Features
 - Live aircraft tracking over India
 - Airport explorer (Indian airports)
 - Flight search & delay analysis
 - Machine Learning delay prediction
 - Interactive charts & maps
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - Streamlit
 - PostgreSQL
 - OpenSky (free APIs)
 - Pandas, Plotly, Scikit-learn
 
-## ▶️ Run Locally
+##  Run Locally
 ```bash
 python -m venv venv
 source venv/bin/activate
